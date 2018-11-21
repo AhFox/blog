@@ -1,2 +1,1 @@
-blog 
-https://github.com/AhFox/issues
+https://github.com/AhFox/blog/issues
